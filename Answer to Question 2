@@ -1,0 +1,4 @@
+d[E]/dt = -k1[E][S] + k2[ES]
+d[S]/dt = -k1[E][S] + k2[ES] + k3[ES]
+d[ES]/dt = k1[E][S] - (k2 + k3)[ES]
+d[P]/dt = k3[ES]
